@@ -1,14 +1,18 @@
 # Attack-Maps---Visualizing-Entra-ID-Login-Successes-and-Failures
 
 
-<img width="1616" alt="image" src="https://github.com/user-attachments/assets/d76aa7e6-219c-4aea-8a27-f38dc8d21cfc">
-
-<img width="1616" alt="image" src="https://github.com/user-attachments/assets/fe2af8f8-6742-47b5-9e19-5e9600c223fa">
+<img width="1616" alt="image" src="https://github.com/user-attachments/assets/61ec08e2-b72e-4bc7-95f8-d6e59c0be635">
 
 
-<img width="1616" alt="image" src="https://github.com/user-attachments/assets/ed390c37-d006-424d-b3c0-7f17b3b6d9a5">
+<img width="1616" alt="image" src="https://github.com/user-attachments/assets/d66932fe-2581-48e7-8d21-9312a998b756">
 
-<img width="1616" alt="image" src="https://github.com/user-attachments/assets/6568b64b-d536-4148-9129-602826049934">
+
+
+<img width="1616" alt="image" src="https://github.com/user-attachments/assets/ff6a4c83-e54e-474f-8052-0af184be57e6">
+
+
+<img width="1616" alt="image" src="https://github.com/user-attachments/assets/cbce2381-4e8c-42dc-8f8d-b6551bb45881">
+
 
 
 
